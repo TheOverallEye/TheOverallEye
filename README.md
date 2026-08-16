@@ -7,7 +7,7 @@
   
 <p align="center"> Hello there, I'm Ren / Rennie </p> 
 
-<p align="center"> 21 </p> 
+<p align="center"> I'm a digital artist that likes to draw whatever I am fixated on </p> 
 
 <p align="center"> I Selfship / yumeship with Mike from Strangled Red </p> 
 
@@ -18,10 +18,17 @@
 <p align="center"> Poképasta, Pokémon, Warframe, Resident Evil, Block Tales, SEWH, Splatoon, FNAF, FNF, 
   Our Life: Beginnings & Always, PASWG, Undertale, Deltarune, Persona 3-5, Eddsworld, and Creepypasta </p> 
 
+  <p align="center"> ──────────────── </p> 
+
 <p align="center"> BYI: </p>
-<p align="center"> Feel free to INT with me, though I may be shy at first. 
+<p align="center"> 
+Feel free to INT with me, though I may be shy at first. 
 I'm usually lurking in the Pokémon area as Mike.
-You may need to whisper me to get my attention </p>
+You may need to whisper me to get my attention. I tend
+  to be in the safe server 1 or 18+ server
+</p>
+
+  <p align="center"> ──────────────── </p> 
 
 <p align="center"> Check my strawpage for my DNI list! </p>
 
