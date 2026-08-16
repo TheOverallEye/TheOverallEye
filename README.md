@@ -5,3 +5,4 @@
   <p align="center"> ──────────────── </p> 
 <p align="center"> Hello there, I'm Ren / Rennie </p> 
 <p align="center"> 21 </p> 
+<p align="center"> I Selfship / yumeship with Mike from Strangled Red </p> 
