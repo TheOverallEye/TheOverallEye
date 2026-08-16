@@ -14,12 +14,16 @@
 <p align="center"> 
 <img width="197" height="19" alt="image" src="https://github.com/user-attachments/assets/540adba2-b7de-48ca-9b7a-34f430369baf" />
 </p>
+<p align="center"> FANDOMS: </p>
+<p align="center"> Poképasta, Pokémon, Warframe, Resident Evil, Block Tales, SEWH, Splatoon, FNAF, FNF, 
+  Our Life: Beginnings & Always, PASWG, Undertale, Deltarune, Persona 3-5, Eddsworld, and Creepypasta </p> 
 
-<p align="center"> Interests:  </p> 
+<p align="center"> BYI: </p>
+<p align="center"> Feel free to INT with me, though I may be shy at first. 
+I'm usually lurking in the Pokémon area as Mike.
+You may need to whisper me to get my attention </p>
 
-<p align="center"> BYI:  </p> 
-
-<p align="center"> DNI:  </p> 
+<p align="center"> Check my strawpage for my DNI list! </p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
