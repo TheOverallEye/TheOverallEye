@@ -30,7 +30,7 @@ You may need to whisper me to get my attention. I tend
 
   <p align="center"> ──────────────── </p> 
 
-<p align="center"> Check my strawpage for my DNI list! </p>
+<p align="center"> Check my strawpage for my DNI list! Check out my Strawpage... </p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
