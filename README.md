@@ -23,7 +23,7 @@
 <p align="center"> BYI: </p>
 <p align="center"> 
 Feel free to INT with me, though I may be shy at first. 
-I'm usually lurking in the Pokémon area as Mike.
+I'm usually lurking in the Pokémon area as Mike, Frosty Red, or Blue Tears.
 You may need to whisper me to get my attention. I tend
   to be in the safe server 1 or 18+ server
 </p>
