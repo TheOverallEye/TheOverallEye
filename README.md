@@ -9,9 +9,7 @@
 
 <p align="center"> I'm a digital artist that likes to draw whatever I am fixated on </p> 
 
-<p align="center"> All my socials are TheOverallEye unless stated otherwise </p> 
-
-<p align="center"> I Selfship / yumeship with Mike from Strangled Red </p> 
+<p align="center"> I Selfship / Yumeship with Mike from Strangled Red </p> 
 
 <p align="center"> 
 <img width="197" height="19" alt="image" src="https://github.com/user-attachments/assets/540adba2-b7de-48ca-9b7a-34f430369baf" />
